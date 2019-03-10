@@ -7,6 +7,6 @@ PROJECT WORKFLOW :
 -> run the "segmentation.ipynb" notebook to create bounding boxes representing placement of text columns on the page.
 -> this creates a set of seperate images of bounding boxes above detected.
 -> run ocr.py to extract text-data from those set of images and display it in string format.
--> save the exteracted text in a .json file (underprogress)
+-> save the exteracted text in a .json file (underprogress).
 
  
